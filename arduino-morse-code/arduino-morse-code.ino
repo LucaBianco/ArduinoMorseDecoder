@@ -1,3 +1,8 @@
+/*
+Author: Luca Bianconi
+License: see included License file.
+*/
+
 //Possible states of the Lightbulb:
 #define STATE_OFF 0   //The Lightbulb is off;
 #define STATE_ON  1   //The Lightbulb is on.
