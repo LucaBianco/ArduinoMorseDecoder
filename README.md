@@ -2,7 +2,7 @@
 ![result](https://www.luca-bianconi.it/projects/arduino-morse/img/Result.PNG)
 
 ## Introduction
-This Arduino sketch reads analog A0 and, decodes a morse signal.
+This Arduino sketch reads analog input A0, and decodes a morse signal.
 This was written for fun, and works with Keep Talking And Nobody Explodes (a videogame).
 
 ## Electrical Schematic
