@@ -1,5 +1,5 @@
 # Arduino Morse Decoder
-![schematic](https://www.luca-bianconi.it/projects/arduino-morse/img/oscill2.png)
+![result](https://www.luca-bianconi.it/projects/arduino-morse/img/Result.PNG)
 
 ## Introduction
 This Arduino sketch reads analog A0 and, decodes a morse signal.
@@ -7,6 +7,7 @@ This was written for fun, and works with Keep Talking And Nobody Explodes (a vid
 
 ## Electrical Schematic
 ![schematic](https://www.luca-bianconi.it/projects/arduino-morse/img/circ_breadboard.png)
+
 Components needed:
 - Arduino;
 - LDR (Photoresistor);
@@ -18,7 +19,7 @@ Next, you need to download/clone this repository, and open the sketch in the ard
 Finally upload the sketch and there you go!
 
 ## Example
-![schematic](https://www.luca-bianconi.it/projects/arduino-morse/img/oscill2.png)
+![oscilloscope](https://www.luca-bianconi.it/projects/arduino-morse/img/oscill2.png)
 ![result](https://www.luca-bianconi.it/projects/arduino-morse/img/Result.PNG)
 
 ## 🔗Links
